@@ -14,7 +14,7 @@ For example if there is an image subfolder under your extension project workspac
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+Only Visual Studio Code editor. :)
 
 ## Extension Settings
 
@@ -37,15 +37,11 @@ Users appreciate release notes as you update your extension.
 
 ### 1.0.0
 
-Initial release of ...
+Initial release of extension.
 
 ### 1.0.1
 
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+Fixed packages, better regex for comments.
 
 -----------------------------------------------------------------------------------------------------------
 
