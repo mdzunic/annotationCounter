@@ -28,7 +28,9 @@ jobs:
 
       - run: sudo dpkg --add-architecture i386
       - run: sudo apt update
-      - run: sudo apt install libgtk-3.so.0:i386
+      - run: sudo apt install libgtk-3-0:i386
+
+
       - run: yarn install
 
       - save_cache:
