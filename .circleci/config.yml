@@ -26,6 +26,7 @@ jobs:
             # fallback to using the latest cache if no exact match is found
             - v1-dependencies-
 
+      - sudo apt-get install libgtk-3.so.0
       - run: yarn install
 
       - save_cache:
