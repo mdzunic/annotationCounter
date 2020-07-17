@@ -30,7 +30,7 @@
 		"test": "yarn run compile && node ./node_modules/vscode/bin/test"
 	},
 	"devDependencies": {
-		"typescript": "^3.7.2",
+		"typescript": "^3.9.7",
 		"vscode": "^1.1.36",
 		"tslint": "^5.20.1",
 		"@types/node": "^12.12.11",
